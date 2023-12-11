@@ -1,6 +1,7 @@
 const wrapper = document.querySelector(".wrapper");
 const question = document.querySelector(".question");
-const gif = document.querySelector("https://media.discordapp.net/attachments/872496454114115644/1183866580854124694/IMG_6146.gif?ex=6589e4ac&is=65776fac&hm=5e5661fe35b8f6d8a0b82e971252b5a2ce262490958946ecfb0b6df7b61a56dc&.gif");
+{ gif.src = 
+  "https://media.discordapp.net/attachments/872496454114115644/1183866580854124694/IMG_6146.gif?ex=6589e4ac&is=65776fac&hm=5e5661fe35b8f6d8a0b82e971252b5a2ce262490958946ecfb0b6df7b61a56dc&.gif"});
 const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
